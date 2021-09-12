@@ -1,2 +1,2 @@
 # hello-world
-Getting started
+Just getting started, looking forward to it!
